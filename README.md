@@ -201,7 +201,7 @@ async function saveReservation(data) {
 
 ## 문의사항
 
-- 이메일: info@revink.com
+- 이메일: revink@gmail.com
 - 전화: 010-2932-9092
 - 카카오톡: @OnYourRevink
 
